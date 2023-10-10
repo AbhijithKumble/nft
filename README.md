@@ -1,6 +1,6 @@
 
 # nft
-a full stack application to create NFT's and also change the ownership
+a full stack application to create NFT's and also transfer it.
 In the project directory, you can run:
 
 ### `npm start`
