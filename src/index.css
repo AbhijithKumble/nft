@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 70%;
+  margin: 10vh auto auto auto;
+}
+
+.wallet-connect {
+  margin: 1% auto;
+  padding: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.connect {
+  max-width: 200px;
+  height: 30px ;
+  font-size:large ;
+} 
+
+.add-nft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .add-nft > h1 {
+
+} */
+
+form {
+  width: 60%;
+  font-size: large ;
+  min-width: 25%;
+}
+
+.name , .description , .nft {
+  font-size: x-large;
+  color: rgb(26, 135, 236);
+}
+
+input {
+  margin-top: 25px ;
+  margin-bottom: 10px;
+  width: 70%;
+  border-top:0 ;
+  border-left:0 ;
+  border-right:0 ;
+  outline: none;
+  font-size: medium;
+}
+
+.mint-nft {
+  margin-left: 25%;
+}
+
+
